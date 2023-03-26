@@ -1,0 +1,15 @@
+C:\testesChallenges\Challenge_targetSistemas\bin\Debug\net6.0\Challenge_targetSistemas.exe
+C:\testesChallenges\Challenge_targetSistemas\bin\Debug\net6.0\Challenge_targetSistemas.deps.json
+C:\testesChallenges\Challenge_targetSistemas\bin\Debug\net6.0\Challenge_targetSistemas.runtimeconfig.json
+C:\testesChallenges\Challenge_targetSistemas\bin\Debug\net6.0\Challenge_targetSistemas.dll
+C:\testesChallenges\Challenge_targetSistemas\bin\Debug\net6.0\ref\Challenge_targetSistemas.dll
+C:\testesChallenges\Challenge_targetSistemas\bin\Debug\net6.0\Challenge_targetSistemas.pdb
+C:\testesChallenges\Challenge_targetSistemas\obj\Debug\net6.0\Challenge_targetSistemas.csproj.AssemblyReference.cache
+C:\testesChallenges\Challenge_targetSistemas\obj\Debug\net6.0\Challenge_targetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\testesChallenges\Challenge_targetSistemas\obj\Debug\net6.0\Challenge_targetSistemas.AssemblyInfoInputs.cache
+C:\testesChallenges\Challenge_targetSistemas\obj\Debug\net6.0\Challenge_targetSistemas.AssemblyInfo.cs
+C:\testesChallenges\Challenge_targetSistemas\obj\Debug\net6.0\Challenge_targetSistemas.csproj.CoreCompileInputs.cache
+C:\testesChallenges\Challenge_targetSistemas\obj\Debug\net6.0\Challenge_targetSistemas.dll
+C:\testesChallenges\Challenge_targetSistemas\obj\Debug\net6.0\ref\Challenge_targetSistemas.dll
+C:\testesChallenges\Challenge_targetSistemas\obj\Debug\net6.0\Challenge_targetSistemas.pdb
+C:\testesChallenges\Challenge_targetSistemas\obj\Debug\net6.0\Challenge_targetSistemas.genruntimeconfig.cache
